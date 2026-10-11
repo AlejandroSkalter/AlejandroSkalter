@@ -24,5 +24,5 @@ Desarrollador de software enfocado en arquitecturas **Full Stack** empresariales
 
 ### 📬 Conecta conmigo
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/alejandrosk)
+- **LinkedIn:** [linkedin.com/in/alejandrosk](https://www.linkedin.com/in/alejandrosk)
 - **Email:** alejandromorovaro@gmail.com
