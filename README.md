@@ -1,28 +1,31 @@
-# 👋 Hola, soy Alejandro Moro
+# 👋 Hi, I'm Alejandro Moro
+Computer Science student at **Universidad de Alcalá (UAH)** and **Software Developer Intern**. I focus on **Full Stack enterprise engineering** with the **Java ecosystem (Jakarta EE, Apache POI)** alongside modern **AI-assisted development**.
 
-Desarrollador de software enfocado en arquitecturas **Full Stack** empresariales. Especializado en el mantenimiento y modernización de plataformas críticas en **Java**, **XML** y optimización de flujos de trabajo mediante **agentes de Inteligencia Artificial locales y en la nube**.
+Currently, I specialize in streamlining internal systems—from automated document/reporting pipelines to the integration of **LLMs (fine-tuning via Hugging Face)** and local/cloud autonomous agents (Cline, Continue, Gemini API) to accelerate development lifecycles.
 
 ---
 
-### 🛠️ Stack Tecnológico
-- **Lenguajes:** Java (SE/EE), C, C++, Python, Ensamblador (RISC-V).
+### 🛠️ Tech Stack
+- **Languages:** Java (SE/EE), C, C++, Python, Assembly (RISC-V).
 - **Backend & Enterprise:** Jakarta EE, JSP/Servlets, Maven, Apache POI, XDocReport, JasperReports, Apache Tomcat.
-- **Sistemas & Bajo Nivel:** Gestión de memoria y procesos (SO en C/C++), Estructuras de Datos y Algoritmos, Arquitectura de Computadores (RISC-V / RARS), ANTLR.
-- **Interfaces & Aplicaciones (UI):** Android Nativo (Java + XML), Aplicaciones de Escritorio (JavaFX / Swing).
-- **Bases de Datos:** SQL (Relacional), MongoDB (NoSQL).
-- **IA & Machine Learning:** Flujos asistidos con agentes (Cline, Continue, Gemini API, Ollama), comprensión y análisis de código en Python (PyTorch, NumPy).
-- **Herramientas & Entornos:** Git, Docker, VS Code, Eclipse, Android Studio.
+- **Systems & Low-Level:** Memory & process management (OS in C/C++), Data Structures & Algorithms, Computer Architecture (RISC-V / RARS), ANTLR.
+- **Interfaces & Applications (UI):** Native Android (Java + XML), Desktop Applications (JavaFX / Swing).
+- **Databases:** SQL (Relational), MongoDB (NoSQL).
+- **AI & Machine Learning:** Agentic workflows (Cline, Continue, Gemini API, Ollama), Python code analysis & comprehension (PyTorch, NumPy).
+- **Tools & Environments:** Git, Docker, VS Code, Eclipse, Android Studio.
+
 ---
 
-### 🚀 En qué estoy trabajando actualmente
+### 🚀 What I'm Currently Working On
 
-- 🎓 **Grado en Ingeniería Informática (Universidad de Alcalá):** Cursando las asignaturas de la carrera, profundizando en sistemas operativos avanzados, Inteligencia artificial y procesadores de lenguaje.
-- 💼 **Desarrollador en Prácticas (UAH):** Mantenimiento y modernización de plataformas empresariales en Java, especializado en la resolución de incidencias en motores de informes (Apache POI, JasperReports) y pipelines de documentación automatizada.
-- 🤖 **Especialización en LLMs & Fine-Tuning:** Estudiando y aplicando técnicas avanzadas de modelos de lenguaje con Hugging Face y PyTorch para la integración de agentes de IA y personalización de modelos dentro del flujo corporativo.
-- 🌐 **Internacionalización y consistencia:** Gestión técnica de diccionarios multi-idioma (ES, EN, FR, IT, PT) y estructuras dinámicas en aplicaciones empresariales críticas.
+- 🎓 **B.S. in Computer Engineering (Universidad de Alcalá):** Completing core coursework with a strong focus on advanced operating systems, artificial intelligence, and language processors/compilers.
+- 💼 **Software Developer Intern (UAH):** Maintaining and modernizing Java enterprise platforms, specializing in bug resolution for reporting engines (Apache POI, JasperReports) and automated document generation pipelines.
+- 🤖 **LLM Specialization & Fine-Tuning:** Studying and implementing applied NLP techniques using Hugging Face and PyTorch to integrate custom AI agents and domain-adapted models into enterprise workflows.
+- 🌐 **Internationalization & Data Consistency:** Engineering multi-language dictionary management (ES, EN, FR, IT, PT) and dynamic templating structures across critical enterprise systems.
+
 ---
 
-### 📬 Conecta conmigo
+### 📬 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/alejandrosk](https://www.linkedin.com/in/alejandrosk)
 - **Email:** alejandromorovaro@gmail.com
