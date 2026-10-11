@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alejandro Moro
-Computer Science student at **Universidad de Alcalá (UAH)** and **Software Developer Intern**. I focus on **Full Stack enterprise engineering** with the **Java ecosystem (Jakarta EE, Apache POI)** alongside modern **AI-assisted development**.
+Third year Computer Science student at **Universidad de Alcalá (UAH)** and **Software Developer Intern** (working continuously since February 2026). I focus on **Full Stack enterprise engineering** with the **Java ecosystem (Jakarta EE, Apache POI)** alongside modern **AI-assisted development**.
 
 Currently, I specialize in streamlining internal systems—from automated document/reporting pipelines to the integration of **LLMs (fine-tuning via Hugging Face)** and local/cloud autonomous agents (Cline, Continue, Gemini API) to accelerate development lifecycles.
 
